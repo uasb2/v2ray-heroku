@@ -8,6 +8,7 @@
 
 4.客户端配置 client_config.json, 建议使用 cn_sniproxy+websocket+tls 传输协议。
 
+5.
 
 # 参考 
 https://github.com/v2ray/v2ray-core
